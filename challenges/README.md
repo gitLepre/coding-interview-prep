@@ -7,6 +7,7 @@
 - arrays [35](./35) [66](./66)
 - hash table [13](./13)
 - search [35](./35)
+- two pointers [27](./27) [28](./28)
 
 
 ## data structures
