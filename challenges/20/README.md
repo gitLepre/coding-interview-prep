@@ -1,25 +1,29 @@
-# 3. Longest Substring Without Repeating Characters
+# 20. Valid Parentheses
 
-Given a string s, find the length of the longest substring without repeating characters.
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+Every close bracket has a corresponding open bracket of the same type.
+ 
 
 Example 1:
 
-Input: s = "abcabcbb" Output: 3
-Explanation: The answer is "abc", with the length of 3.
-
+Input: s = "()"
+Output: true
 Example 2:
 
-Input: s = "bbbbb"
-Output: 1
-Explanation: The answer is "b", with the length of 1.
+Input: s = "()[]{}"
+Output: true
 Example 3:
 
-Input: s = "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+Input: s = "(]"
+Output: false
+ 
 
 Constraints:
 
-0 <= s.length <= 5 \* 104
-s consists of English letters, digits, symbols and spaces.
+1 <= s.length <= 104
+s consists of parentheses only '()[]{}'.
