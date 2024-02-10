@@ -19,3 +19,4 @@
 - linked list [2](./2)
 - tries (?)
 
+> Note for Jeorje: missing challenge 20
