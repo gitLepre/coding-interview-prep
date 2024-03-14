@@ -14,9 +14,9 @@
 
 ## data structures
 
+- stack [20](./20)
 - graphs
 - trees [70](./70)
 - linked list [2](./2)
 - tries (?)
 
-> Note for Jeorje: missing challenge 20
