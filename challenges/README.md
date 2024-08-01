@@ -17,7 +17,7 @@
 - stack [20](./20)
 - graphs
 - trees [70](./70)
-- linked list [2](./2)
+- linked list [2](./2) [83](./83)
 - tries (?)
 
 ## TODO
