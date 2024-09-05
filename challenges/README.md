@@ -9,7 +9,7 @@
 - binarysearch [35](./35) [69](./69)
 - two pointers [27](./27) [28](./28) [11](./11)
 - dynamic programming [70](./70)
-- recursion [2](./2) [70](./70)
+- recursion [2](./2) [70](./70) [38](./38)
 
 
 ## Data Structures
@@ -19,7 +19,3 @@
 - trees [70](./70)
 - linked list [2](./2) [83](./83)
 - tries (?)
-
-## TODO
-**Jeorje**:
-- [ ] challenge 83: Remove Duplicates from Sorted List
